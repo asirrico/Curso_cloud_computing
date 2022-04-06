@@ -1,6 +1,7 @@
 # Introducción a la programación
 
-**Billy M.Vanegas B. -> Ingeniero Informático**
+**Instructor: Billy M.Vanegas B. -> Ingeniero Informático**
+------------------------------------------------------------
 
 Revisión General
 

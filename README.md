@@ -11,7 +11,9 @@ Todos los ejercicios y tareas del curso alojadas en este repo
   8. Prepraración PL-100 (Miguel Ángel)
   
 ## Apuntes y notas
-  Soft Skills [1]:./apuntes/softskills
+  Soft Skills[1]
+  
+  [1]:/apuntes/softskills
 ## Enlace a tareas realizadas
 
 ### Fundamentos de la programación 

@@ -10,6 +10,11 @@ Todos los ejercicios y tareas del curso alojadas en este repo
   7. Preparación AZ-204 (Miguel Ángel)
   8. Prepraración PL-100 (Miguel Ángel)
   
+## Tareas
+[ ] Tarea 1
+[x] Tarea 2
+[ ] Tarea 3
+
 ## Enlace a tareas realizadas
 
 

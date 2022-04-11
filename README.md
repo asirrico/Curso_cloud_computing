@@ -17,6 +17,7 @@ Todos los ejercicios y tareas del curso alojadas en este repo
 
 ## Enlace a tareas realizadas
 
+[Fundamentos programación EOI](https://github.com/jacs2501/FundamentosProgramacionEOI-1)
 
 
 ## Evento Microsoft

@@ -72,7 +72,7 @@ Solidity fue creado en 2014 por distintos colaboradores del proyecto Ethereum. P
 Un ejemplo claro de uso de este lenguaje sería el programar localmente contratos inteligentes en nuestro ordenador, para luego más tarde desplegarlos por la red de Ethereum de manera que alojamos nuestros contratos inteligentes de una forma  descentralizada. 
 
 Este lenguaje ha de compilarse para que el código creado funcione.
-Aquí dejamos la página donde se explica el proceso de compilación de codigo Solidity.
+Aquí dejamos la [página](https://solidity-es.readthedocs.io/es/latest/using-the-compiler.html) donde se explica el proceso de compilación de codigo Solidity.
 
 
 

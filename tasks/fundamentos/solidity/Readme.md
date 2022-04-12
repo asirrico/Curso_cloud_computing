@@ -18,12 +18,12 @@
 
  * [x]  Palabras clave
 
- * [ ]  Sensible a la mayuscula y minuscula
+ * [x]  Sensible a la mayuscula y minuscula
 
 
- * [ ]  Cuanto gana un programador:
+ * [x]  Cuanto gana un programador:
 
- * [ ]  Comunidad:
+ * [x]  Comunidad:
 
  * [x]  Influencia de otro lenguaje:
 
@@ -74,6 +74,10 @@ Un ejemplo claro de uso de este lenguaje sería el programar localmente contrato
 Este lenguaje ha de compilarse para que el código creado funcione.
 Aquí dejamos la [página](https://solidity-es.readthedocs.io/es/latest/using-the-compiler.html) donde se explica el proceso de compilación de codigo Solidity.
 
+Solidity cuenta con una comunidad muy extensa, es un lenguaje del que se puede encontrar mucho contenido en la red y [soluciones](https://dev.to/t/solidity) a problemas que puedan surgirnos. 
+
+Añadir que este lenguaje es [sensible](https://dev.to/dumboprogrammer/solidity-programming-language-tutorial-1e4d) a mayúsculas y minúsculas. 
+
 
 
   Palabras reservadas del lenguaje 
@@ -96,21 +100,49 @@ Aquí dejamos la [página](https://solidity-es.readthedocs.io/es/latest/using-th
 ## Definiciones:
 
 
-- Lenguaje de programación:
+- Lenguaje de programación: Un lenguaje de programación es un lenguaje formal (o artificial, es decir, un lenguaje con reglas gramaticales bien definidas) que le proporciona a una persona, en este caso el programador, la capacidad de escribir (o programar) una serie de instrucciones o secuencias de órdenes en forma de algoritmos con el fin de controlar el comportamiento físico o lógico de un sistema informático, de manera que se puedan obtener diversas clases de datos o ejecutar determinadas tareas. A todo este conjunto de órdenes escritas mediante un lenguaje de programación se le denomina programa informático. [Wikipedia](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n)
 
-- Cripto:
 
-- Cadena de bloques o blockchain:
 
-- API:
+- Cripto / Criptomoneda: Una criptomoneda, criptodivisa (del inglés cryptocurrency) o criptoactivo es un medio digital de intercambio que utiliza criptografía fuerte para asegurar las transacciones, controlar la creación de unidades adicionales y verificar la transferencia de activos usando tecnologías de registro distribuido. [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda)
 
-- ECMAScript:
 
-- C:
 
-- JavaScript: 
+- Cadena de bloques o blockchain: Una cadena de bloques,1 conocida en inglés como blockchain, es una estructura de datos cuya información se agrupa en conjuntos (bloques) a los que se les añade metainformaciones relativas a otro bloque de la cadena anterior en una línea temporal. De esta forma, gracias a técnicas criptográficas, la información contenida en un bloque solo puede ser repudiada o editada modificando todos los bloques anteriores. Esta propiedad permite su aplicación en un entorno distribuido de manera que la estructura de datos blockchain puede ejercer de base de datos pública no relacional que contenga un histórico irrefutable de información. [Wikipedia](https://es.wikipedia.org/wiki/Cadena_de_bloques)
 
-- Tipado:
+
+
+- API: La interfaz de programación de aplicaciones, conocida también por la sigla API, en inglés, application programming interface,​ es un conjunto de subrutinas, funciones y procedimientos (o métodos, en la programación orientada a objetos) que ofrece cierta biblioteca para ser utilizada por otro software como una capa de abstracción. [Wikipedia](https://es.wikipedia.org/wiki/Interfaz_de_programaci%C3%B3n_de_aplicaciones)
+
+
+
+- C: C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell, como evolución del anterior lenguaje B, a su vez basado en BCPL. [Wikipedia](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
+
+
+
+- JavaScript: JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,basado en prototipos, imperativo, débilmente tipado y dinámico. [Wikipedia](https://es.wikipedia.org/wiki/JavaScript)
+
+
+
+- ECMAScript: ECMAScript es una especificación de lenguaje de programación publicada por ECMA International. El desarrollo empezó en 1996 y estuvo basado en el popular lenguaje JavaScript propuesto como estándar por Netscape Communications Corporation. Actualmente está aceptado como el estándar ISO/IEC 22275:2018. [Wikipedia](https://es.wikipedia.org/wiki/ECMAScript)
+
+
+
+- Tipado fuerte: Un lenguaje de programación es fuertemente tipado si no se permiten violaciones de los tipos de datos, es decir, dado el valor de una variable de un tipo concreto, no se puede usar como si fuera de otro tipo distinto a menos que se haga una conversión. No hay una única definición de este término. Un lenguaje que se dice que no está tipado se refiere a que no está fuertemente tipado. [Wikipedia](https://es.wikipedia.org/wiki/Tipado_fuerte)
+  
+
+
+----------------------
+
+## Salario 
+
+
+Según este [blog](https://www.elblogsalmon.com/mundo-laboral/esta-especialidad-que-mejor-se-paga-ahora-informatica-programador-smart-contracts) el salario promedio de un desarrollador en EEUU de contratos inteligentes desarrollados mediante Solidity es de 127.500 $ americanos.
+
+
+
+
+------------------
 
 ## Fuentes de información utilizadas en este trabajo:
 - [Xataka](https://www.xataka.com/basics/solidity-que-sirve-este-lenguaje-programacion)

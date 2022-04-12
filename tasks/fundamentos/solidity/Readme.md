@@ -72,6 +72,19 @@ Solidity fue creado en 2014 por distintos colaboradores del proyecto Ethereum. P
 Un ejemplo claro de uso de este lenguaje sería el programar localmente contratos inteligentes en nuestro ordenador, para luego más tarde desplegarlos por la red de Ethereum de manera que alojamos nuestros contratos inteligentes de una forma  descentralizada. 
 
 
+ Palabras reservadas del lenguaje 
+
+---------------------------------------------------------------------
+| abstract    |      after        |      alias     |      apply     |
+| auto        |      case         |      catch     |      copyof    |
+| default     |      define       |      final     |      immutable |
+| implements  |      in           |      inline    |      let       | 
+| macro       |      match        |      mutable   |      null      |
+| sofd        |      override     |      partial   |      promise   |
+| reference   |      relocatable  |      sealed    |      sizeof    |
+| static      |      supports     |      switch    |      try       |
+| typedef     |      typeof       |      unchecked |                |
+---------------------------------------------------------------------
 
 
 

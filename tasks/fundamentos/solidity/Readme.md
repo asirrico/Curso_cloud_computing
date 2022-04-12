@@ -1,5 +1,5 @@
-#Solidity
+# Solidity
 
-###Trabajo conjunto Amaia y Juan Antonio
+### Trabajo conjunto Amaia y Juan Antonio
 
 

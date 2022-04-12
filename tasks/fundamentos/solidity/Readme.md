@@ -1,5 +1,5 @@
 #Solidity
 
-###Trabajo conjunto Amaia Sanchis Ballester y Juan Antonio Cejudo
+###Trabajo conjunto Amaia y Juan Antonio
 
 

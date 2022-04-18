@@ -1,4 +1,4 @@
-# Solidity
+# **Solidity**
 
 ### Trabajo conjunto de Amaia Sanchis Ballester y Juan Antonio Cejudo
 
@@ -14,20 +14,20 @@
 
  * [x]  Historia
 
- * [x]  Compilado/interpretado/Hybrido
+ * [x]  Compilado/interpretado/Híbrido
 
  * [x]  Palabras clave
 
- * [x]  Sensible a la mayuscula y minuscula
+ * [x]  Sensible a la mayúscula y minúscula
 
 
- * [x]  Cuanto gana un programador:
+ * [x]  Cuánto gana un programador
 
- * [x]  Comunidad:
+ * [x]  Comunidad
 
- * [x]  Influencia de otro lenguaje:
+ * [x]  Influencia de otro lenguaje
 
- * [x]  multiplataforma: Windows, Linux o IOs 
+ * [x]  Multiplataforma: Windows, Linux o IOs 
 
 Fecha de entrega: Miercoles 20 de abril de 2022
 
@@ -48,11 +48,13 @@ Para entender correctamente todos los conceptos que vamos a describir en este tr
 
 
 
-### · Contratos inteligentes:
+### · Contratos inteligentes
+
+![Imagen Contrato](https://camargo.life/wp-content/uploads/2018/07/Federico-Camargo-Investigador-Contratos-Inteligentes-Smart-Contracts-300x214.jpg)
 
 El concepto de contrato inteligente se empezó a dar en la década de los años 90, aunque no fue hasta la creación de las criptos y la tecnología de cadena de bloques o blockchain cuando se ha encontrado la manera de poder realizar correctamente estos contratos inteligentes.
 
-Un contrato inteligente consiste en una especie de programa que se almacena en la cadena de bloques. Esta cadena de bloques resulta un territorio neutral fuera de cualquier servidor. Sin piezas de código que definen los acuerdos entre múltiples partes sin intermediario alguno. Los micropagos son una de las muchas opciones que podemos llevar a cabo con esta tecnología.
+Un contrato inteligente consiste en una especie de programa que se almacena en la cadena de bloques. Esta cadena de bloques resulta un territorio neutral fuera de cualquier servidor. Sin piezas de código que definan los acuerdos entre múltiples partes, sin intermediario alguno. Los micropagos son una de las muchas opciones que podemos llevar a cabo con esta tecnología.
 
 Estas transacciones deben cumplir una serie de requisitos que sean verificables por la red, ya sea dentro de la  blockchain o fuera a través de APIs.
 
@@ -63,20 +65,24 @@ Esta tecnología ya está instaurada en la mayor parte de los bancos y está pre
 
 Una vez explicado el concepto de contrato inteligente, pasamos a ver el lenguaje Solidity.
 
+![Solidity](https://www.criptonoticias.com/wp-content/uploads/2021/02/solidity-lenguaje-programacion-actualizacion.jpg)
+
 Este lenguaje de programación está basado en ECMAScript y otros lenguajes como JavaScript y C.
 
-Cuenta con un tipado fuerte a la hora de declarar el tipo de variables y argumentos. Este lenguaje permite compilar los contratos que se crean en la red de Ethereum, además permite vincularlos a la ella.
+Cuenta con un tipado fuerte a la hora de declarar el tipo de variables y argumentos. Este lenguaje permite compilar los contratos que se crean en la red de Ethereum, además permite vincularlos a ella.
 
 Solidity fue creado en 2014 por distintos colaboradores del proyecto Ethereum. Precisamente este lenguaje fue concebido para ejecutarse en las Ethereum Virtual Machines (EVM) que funcionan sobre la cadena de bloques de Ethereum.
 
-Un ejemplo claro de uso de este lenguaje sería el programar localmente contratos inteligentes en nuestro ordenador, para luego más tarde desplegarlos por la red de Ethereum de manera que alojamos nuestros contratos inteligentes de una forma  descentralizada. 
+Un ejemplo claro de uso de este lenguaje sería el programar localmente contratos inteligentes en nuestro ordenador, para luego más tarde desplegarlos por la red de Ethereum de manera que alojamos nuestros contratos inteligentes de una forma descentralizada. 
 
 Este lenguaje ha de compilarse para que el código creado funcione.
-Aquí dejamos la [página](https://solidity-es.readthedocs.io/es/latest/using-the-compiler.html) donde se explica el proceso de compilación de codigo Solidity.
+Aquí dejamos la [página](https://solidity-es.readthedocs.io/es/latest/using-the-compiler.html) donde se explica el proceso de compilación de código Solidity.
 
 Solidity cuenta con una comunidad muy extensa, es un lenguaje del que se puede encontrar mucho contenido en la red y [soluciones](https://dev.to/t/solidity) a problemas que puedan surgirnos. 
 
 Añadir que este lenguaje es [sensible](https://dev.to/dumboprogrammer/solidity-programming-language-tutorial-1e4d) a mayúsculas y minúsculas. 
+
+-------------------------
 
 
 
@@ -95,7 +101,37 @@ Añadir que este lenguaje es [sensible](https://dev.to/dumboprogrammer/solidity-
 
 
 
+## Salario 
 
+
+Según este [blog](https://www.elblogsalmon.com/mundo-laboral/esta-especialidad-que-mejor-se-paga-ahora-informatica-programador-smart-contracts), el salario promedio de un desarrollador en EEUU de contratos inteligentes desarrollados mediante Solidity es de 127.500 dólares americanos.
+
+Por otra parte, según el informe HowtoToken, el desarrollador de software blockchain gana de media 110.000 dólares americanos, rondando los 90.000 dólares americanos en el caso de perfiles junior. [fuente](https://criptodinero.es/blockchain/cuanto-gana-un-programador-blockchain-donde-buscar-ofertas-laborales-de-blockchain/)
+
+
+---------------------
+
+## Comunidad
+
+
+Se estima que el tamaño de la comunidad de desarrolladores de Solidity es de unas 200.000 personas. [fuente](https://www.freecodecamp.org/news/the-most-popular-programming-languages-used-in-blockchain-development-5133a0a207dc/#:~:text=Solidity%20is%20a%20contract%2Doriented,is%20estimated%20at%20over%20200%2C000.). 
+
+Los resultados de la [Encuesta del desarrollador Solidity](https://blog.soliditylang.org/2022/02/07/solidity-developer-survey-2021-results/) aportan un perfil del desarrollador Solidity.
+
+------------------
+## Influencia de otros lenguajes
+
+El lenguaje de programación Solidity tiene diversas influencias. Una de las más importantes, es la de C++, que se manifiesta, entre otras características, en la sintaxis de las declaraciones de variables, en los bucles o en el concepto de sobrecarga (overloading functions). 
+
+Además, toma algunos conceptos de Python, JavaScript y otros. 
+
+-------------------------------------
+## Plataforma
+
+Solidity es un lenguaje multiplataforma. Existen paquetes para su uso en Linux, macOS y Windows. [REVISAR](https://docs.soliditylang.org/en/latest/installing-solidity.html)
+
+
+--------------------------------------
 
 ## Definiciones:
 
@@ -131,16 +167,9 @@ Añadir que este lenguaje es [sensible](https://dev.to/dumboprogrammer/solidity-
 - Tipado fuerte: Un lenguaje de programación es fuertemente tipado si no se permiten violaciones de los tipos de datos, es decir, dado el valor de una variable de un tipo concreto, no se puede usar como si fuera de otro tipo distinto a menos que se haga una conversión. No hay una única definición de este término. Un lenguaje que se dice que no está tipado se refiere a que no está fuertemente tipado. [Wikipedia](https://es.wikipedia.org/wiki/Tipado_fuerte)
   
 
+- Sobrecarga (overloading functions) : es la capacidad de un lenguaje de programación, que permite nombrar con el mismo identificador diferentes variables u operaciones. En programación orientada a objetos la sobrecarga se refiere a la posibilidad de tener dos o más funciones con el mismo nombre pero funcionalidad diferente. Es decir, dos o más funciones con el mismo nombre realizan acciones diferentes. El compilador usará una u otra dependiendo de los parámetros usados. A esto se llama también sobrecarga de funciones. [Wikipedia](https://es.wikipedia.org/wiki/Sobrecarga_(inform%C3%A1tica))
 
-----------------------
-
-## Salario 
-
-
-Según este [blog](https://www.elblogsalmon.com/mundo-laboral/esta-especialidad-que-mejor-se-paga-ahora-informatica-programador-smart-contracts) el salario promedio de un desarrollador en EEUU de contratos inteligentes desarrollados mediante Solidity es de 127.500 $ americanos.
-
-
-
+- Python: Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código, se utiliza para desarrollar aplicaciones de todo tipo, ejemplos: Instagram, Netflix, Panda 3D, entre otros.2​ Se trata de un lenguaje de programación multiparadigma, ya que soporta parcialmente la orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma. [Wikipedia](https://es.wikipedia.org/wiki/Python)
 
 ------------------
 
@@ -150,4 +179,5 @@ Según este [blog](https://www.elblogsalmon.com/mundo-laboral/esta-especialidad-
 - [tutorialspoint](https://www.tutorialspoint.com/solidity/solidity_quick_guide.htm)
   
 - [Solidity-es](https://solidity-es.readthedocs.io/es/latest/solidity-in-depth.html)
-  
+
+- [Soliditylang](https://docs.soliditylang.org/en/v0.8.11/language-influences.html)

@@ -202,15 +202,17 @@ Propuesta algoritmo 1 con ejecución secuencial sin bucles
                 Definición e inincialización variable número 1 -> x = 0
                 Definición e inincialización variable número 2 -> y = 0
                 Definición e inincialización variable numero 3 -> z = 0
-               
 
-                Si numero 1 es mayor que numero 2 y ademas es mayor que numero 3 entonces  imprimir numero 1 es el mayor -> if x > y && x > z then print "Numero 1 es el mayor"
+                             
+                Inicio SI
+                    Si numero 1 es mayor o igual que número 2 y ademas es mayor o igual que numero 3 entonces  imprimir numero 1 es el mayor -> if x >= y && x >= z then print x " es el mayor"
 
-                Si no, si numero 2 es mayor que numero 1 y además es mayor que numero 3 entonces imprimir numero 2 es el mayor -> else if y > x && y > z then print "Numero 2  es el mayor"
+                    Si no, si numero 2 es mayor que numero 1 y además es mayor que numero 3 entonces imprimir numero 2 es el mayor -> else if y > x && y > z then print y " es el mayor"
 
-                Si no, si numero 3 es mayor que numero 1 y además es mayor que número 2 entonces imprimir numero 3 es el mayor -> else if z > x && z > y then print "Numero 3 es el mayor"
+                    Si no, imprimir numero 3 es el mayor -> else print z " es el mayor"
+                FIN SI
 
-                Si no imprimir todos los números son iguales -> else print "Todos los números son iguales"
+                
 
 
             Fin Programa
@@ -224,6 +226,30 @@ Propuesta algoritmo 1 con ejecución secuencial sin bucles
 
 ## Encontrar si un numero es mayor o menor a un número dado.
 
+Propuesta algoritmo 1 con ejecución secuencial sin bucles
+
+
+
+```
+
+         Inicio Programa
+
+                Definición e inincialización variable número 1 -> x = 6
+                Definición e inincialización variable número 2 -> y = 8
+           
+
+                             
+                Inicio SI
+                    Si numero 1 es mayor o igual  número 2 imprimir número 1 mayor -> if x > y then print x " es mayor"
+                    Si no, imprimir numero 2 es mayor -> if y > x then print y " es mayor"
+                    
+                FIN SI
+
+                
+
+
+            Fin Programa
+```
 
 ## Adivinar una palabra.
 

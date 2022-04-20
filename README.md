@@ -19,8 +19,9 @@ Todos los ejercicios y tareas del curso alojadas en este repo
 
 [Fundamentos programación EOI](https://github.com/jacs2501/FundamentosProgramacionEOI-1)
 
-[Trabajo Solidity](https://github.com/jacs2501/Curso_cloud_computing/tree/main/tasks/fundamentos/solidity)
+[Trabajo Solidity](/tasks/fundamentos/solidity)
 
+[Trabajo Algoritmos](/tasks/fundamentos/algoritmos.md)
 
 ## Evento Microsoft
 

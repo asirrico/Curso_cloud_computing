@@ -24,7 +24,10 @@ Propuesta algoritmo 1 Bucle for con array
 
  ```
 
+
  Propuesta algoritmo 2 Bucle while sin array
+
+
 
  ```
     Inicio programa
@@ -55,43 +58,41 @@ Calcular los números primos que hay del 0 al número introducido por teclado
 
 
 
-    ```
+ ```
 
-     Algoritmo NumerosPrimos
-        Escribir "Ingrese un número: "
-        Leer nro
-        div <- 2
-        band <- Verdadero 	         
-                Si nro=1 Entonces 		            
-                Escribir "Es primo" 	         
-                    Sino 		             
-                        Mientras band=Verdadero y nro>div Hacer
-                    Si nro MOD div = 0 Entonces
-                        band <- Falso
+        Algoritmo NumerosPrimos
+            Escribir "Ingrese un número: "
+            Leer nro
+            div <- 2
+            band <- Verdadero 	         
+                    Si nro=1 Entonces 		            
+                    Escribir "Es primo" 	         
+                        Sino 		             
+                            Mientras band=Verdadero y nro>div Hacer
+                        Si nro MOD div = 0 Entonces
+                            band <- Falso
+                        FinSi
+                            div <- div +1
+                        FinMientras
+                        si band= Verdadero Entonces
+                        Escribir "Es primo"
+                        Sino
+                        Escribir "No es primo"
+                        FinSi
                     FinSi
-                        div <- div +1
-                    FinMientras
-                    si band= Verdadero Entonces
-                    Escribir "Es primo"
-                    Sino
-                    Escribir "No es primo"
-                    FinSi
-                FinSi
-    FinAlgoritmo
-
-
-    ``` 
+        FinAlgoritmo
+``` 
 
 ## 3 Construir un avión de papel
 
 
 ##  4 Realizar las cuatro operaciones básicas (Suma, Resta, Multiplicación, División)
 
-    Propuesta algoritmo con selección de operación
+Propuesta algoritmo con selección de operación
 
 
 
-        ```
+```
             Inicio Programa
 
                 Definición e inincialización variable número 1 -> x = 0
@@ -139,11 +140,15 @@ Calcular los números primos que hay del 0 al número introducido por teclado
 
 
 
-        ```     
+ ```     
 
-    Propuesta algoritmo 2 con ejecución secuencial sin bucles
+    
+    
+Propuesta algoritmo 2 con ejecución secuencial sin bucles
 
-        ```
+
+
+```
 
          Inicio Programa
 
@@ -172,8 +177,7 @@ Calcular los números primos que hay del 0 al número introducido por teclado
 
 
             Fin Programa
-
-        ```
+```
 
 
 
@@ -185,6 +189,8 @@ Calcular los números primos que hay del 0 al número introducido por teclado
 
 
 ## Encontrar el mayor número de tres números
+
+
 
 
 ## Factorial de cualquier número

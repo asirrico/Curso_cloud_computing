@@ -122,8 +122,9 @@ Propuesta algoritmo con selección de operación
                                 Si la entrada por teclado no es 1 y es 2 llamar a función multiplicación -> else if (e = 2) then multiplicación (x,y)
                                 Si la entrada por teclado no es 2 y es 3 llamar a función división -> else if (e = 3) then división (x,y)
                     FIn SI      Si la entrada por teclado no es ninguno de los valores que esperábamos imprimir error -> else print" Número introducido no corresponde con ninguna operación"
-                
-                         Inicio bucle while r != 0 || r! = 1
+                       
+                         Asignamos a variable de entrada "e" un valor por encima de 3 -> e = 4
+                         Inicio bucle while e != 0 || e != 1
                                             Imprimir por pantalla pregunta de seguir o acabar programa -> Print"¿Desea seguir realizando operaciones? 1.Si 0.No"
                                             Recibir respuesta por teclado; e = input()
                                             Si la entrada por teclado es 1 entonces i = 0; if (e = 1) then i = 0

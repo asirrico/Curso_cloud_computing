@@ -128,7 +128,7 @@ Además, toma algunos conceptos de Python, JavaScript y otros.
 -------------------------------------
 ## Plataforma
 
-Solidity es un lenguaje multiplataforma. Existen paquetes para su uso en Linux, macOS y Windows. [REVISAR](https://docs.soliditylang.org/en/latest/installing-solidity.html)
+Solidity es un lenguaje multiplataforma. Existen paquetes para su uso en Linux, macOS y Windows. [Fuente](https://docs.soliditylang.org/en/latest/installing-solidity.html)
 
 
 --------------------------------------

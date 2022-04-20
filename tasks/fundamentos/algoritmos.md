@@ -191,6 +191,32 @@ Propuesta algoritmo 2 con ejecución secuencial sin bucles
 ## Encontrar el mayor número de tres números
 
 
+Propuesta algoritmo 1 con ejecución secuencial sin bucles
+
+
+
+```
+
+         Inicio Programa
+
+                Definición e inincialización variable número 1 -> x = 0
+                Definición e inincialización variable número 2 -> y = 0
+                Definición e inincialización variable numero 3 -> z = 0
+               
+
+                Si numero 1 es mayor que numero 2 y ademas es mayor que numero 3 entonces  imprimir numero 1 es el mayor -> if x > y && x > z then print "Numero 1 es el mayor"
+
+                Si no, si numero 2 es mayor que numero 1 y además es mayor que numero 3 entonces imprimir numero 2 es el mayor -> else if y > x && y > z then print "Numero 2  es el mayor"
+
+                Si no, si numero 3 es mayor que numero 1 y además es mayor que número 2 entonces imprimir numero 3 es el mayor -> else if z > x && z > y then print "Numero 3 es el mayor"
+
+                Si no imprimir todos los números son iguales -> else print "Todos los números son iguales"
+
+
+            Fin Programa
+```
+
+
 
 
 ## Factorial de cualquier número

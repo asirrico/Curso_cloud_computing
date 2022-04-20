@@ -14,6 +14,8 @@ Todos los ejercicios y tareas del curso alojadas en este repo
 * [x] Instalar un editor de markdown
 * [x] Explorar Github
 * [x] Explorar Git
+* [x] Trabajo Solidity
+* [x] Algoritmos
 
 ## Enlace a tareas realizadas
 

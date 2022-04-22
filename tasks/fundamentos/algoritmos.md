@@ -88,7 +88,7 @@ Calcular los números primos que hay del 0 al número introducido por teclado
 
 ##  4 Realizar las cuatro operaciones básicas (Suma, Resta, Multiplicación, División)
 
-Propuesta algoritmo con selección de operación
+Propuesta algoritmo con selección de operación (Recursivo)
 
 
 
@@ -164,17 +164,17 @@ Propuesta algoritmo 2 con ejecución secuencial sin bucles
                     Preguntar por teclado número 2 -> Print ¿Que valor asignamos a numéro 2? Introducir número!!!
                     Esperar entrada por teclado-> y = input()
                     
-                    z = x + y
-                    Suma -> print "Resultado suma = " z
+                    Sumamos x más y, asignamos resultado a z -> z = x + y
+                    Escribimos resultado -> print "Resultado suma = " z
                    
-                    z = x - y
-                    Resta -> print "Resultado resta = " z
+                    Restamos x menos y, asignamos resultado a z -> z = x - y
+                    Escribimos resultado -> print "Resultado resta = " z
                    
-                    z = x * y
-                    Multiplicación -> print "Resultado multiplicación = " z
+                    Multiplicamos x por y, asignamos resultado a z -> z = x * y
+                    Escribimos resultado -> print "Resultado multiplicación = " z
                    
-                    z = x / y
-                    División -> print "Resultado división = " z
+                    Dividimos x entre y, asignamos resultado a z -> z = x / y
+                    Escribimos resultado -> print "Resultado división = " z
 
 
             Fin Programa

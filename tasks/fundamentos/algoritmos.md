@@ -145,7 +145,7 @@ Propuesta algoritmo con selección de operación (Recursivo)
 
     
     
-Propuesta algoritmo 2 con ejecución secuencial sin bucles
+Propuesta algoritmo 2 con ejecución secuencial sin bucles (No recursivo)
 
 
 

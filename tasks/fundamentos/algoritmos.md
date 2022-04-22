@@ -88,7 +88,7 @@ Calcular los números primos que hay del 0 al número introducido por teclado
 
 ##  4 Realizar las cuatro operaciones básicas (Suma, Resta, Multiplicación, División)
 
-Propuesta algoritmo con selección de operación (Recursivo)
+Propuesta algoritmo con selección de operación
 
 
 
@@ -145,7 +145,7 @@ Propuesta algoritmo con selección de operación (Recursivo)
 
     
     
-Propuesta algoritmo 2 con ejecución secuencial sin bucles (No recursivo)
+Propuesta algoritmo 2 con ejecución secuencial sin bucles 
 
 
 

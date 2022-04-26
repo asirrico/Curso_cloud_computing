@@ -18,3 +18,20 @@ print("La variable obj es de tipo " + str(type(obj)))
 
 print(f"{obj.day}-{obj.month}-{obj.year}")
 
+#Fecha en formato americano
+#Capturamos la fecha actual
+fecha3=datetime.now()
+print("Fecha 3: ", fecha3)
+#Imprimimos la fecha en formato americano
+print("Fecha 3: ",fecha3.strftime("%A %d %b %Y"))
+
+#Proceso de pasar fecha a español
+#Importamos libreria locale para poder transformar a castellano
+# Si da fallo hacer : python3 -c "import locale; locale.setlocale(locale.LC_ALL, '')"
+import locale
+ 
+
+locale.setlocale(locale.LC_ALL, 'es_ES.UTF8') 
+
+fechacastellano = datetime.now()
+print("Fecha en castellano: ",fechacastellano.strftime("%A %d %b %Y"))

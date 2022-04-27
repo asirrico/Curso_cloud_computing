@@ -31,7 +31,7 @@ print("Fecha 3: ",fecha3.strftime("%A %d %b %Y"))
 import locale
  
 
-locale.setlocale(locale.LC_ALL, 'es_ES.UTF8') 
+locale.setlocale(locale.LC_TIME, 'es_ES.UTF8') 
 
 fechacastellano = datetime.now()
 print("Fecha en castellano: ",fechacastellano.strftime("%A %d %b %Y"))

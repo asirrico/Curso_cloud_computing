@@ -11,7 +11,7 @@ Propuesta algoritmo 1 Bucle for con array
 
         Inicio bucle -> for i in v
 
-            Calcula cuadrado -> x=i²
+            Calcula cuadrado -> x=i**2
             Mostramos variable x -> print x
             Incrementamos valor i -> i++
 

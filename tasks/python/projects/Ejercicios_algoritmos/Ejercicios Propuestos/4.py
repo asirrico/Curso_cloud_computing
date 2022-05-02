@@ -44,4 +44,4 @@ while (i==0):
         elif(e==0):
             i=1
         else:
-            print("Valor introducido erroneoS")
+            print("Valor introducido erroneo")

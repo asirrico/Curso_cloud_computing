@@ -27,7 +27,7 @@ Todos los ejercicios y tareas del curso alojadas en este repo
 
 [Trabajo Algoritmos](/tasks/fundamentos/algoritmos.md)
 
-[Programas en python](/tasks/python/projects/Ejercicios_Algoritmos)
+[Programas en python](/tasks/python/projects/Ejercicios_algoritmos)
 
 ## Evento Microsoft
 

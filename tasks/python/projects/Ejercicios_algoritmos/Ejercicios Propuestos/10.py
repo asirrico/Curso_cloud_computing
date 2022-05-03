@@ -1,20 +1,17 @@
 # Adivinar la palabra
 # El siguiente programa va a tratar de descubrir la palabra que le hemos introducido
 # Vamos a realizar fuerza bruta a cada carácter de la palabra hasta conseguir descifrarla
-
-from ntpath import join
-
-
-palabra="cba"
+palabra="palabra secreta"
 l=len(palabra)
-v=[l]
-abecedario="abc"
+descifrada=str()
+abecedario=" aAbBcCdDeEfFgGhHiIjJkKlLmMnNñÑoOpPqQrRsStTuUvVwWxXyYzZ"
 for i in range(0,l):
     contador=0
-    for r in range(0,l):
+    for r in range(0,55):
         letra=abecedario[r]
         if(letra==palabra[i]):
-            descifrada=join(letra)
+            descifrada=descifrada+letra
+          
             contador=+1
 
 print(descifrada)

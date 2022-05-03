@@ -10,12 +10,10 @@ l=len(palabra)
 descifrada=str()
 abecedario=" aAbBcCdDeEfFgGhHiIjJkKlLmMnNñÑoOpPqQrRsStTuUvVwWxXyYzZ0123456789áéíóú.:,;!·$%&/()=?¿|@#~½¬{[]}\][{─·-̣"
 for i in range(0,l):
-    contador=0
     for r in range(0,103):
         letra=abecedario[r]
         if(letra==palabra[i]):
             descifrada=descifrada+letra
-            contador=+1
 
 print(descifrada)
 

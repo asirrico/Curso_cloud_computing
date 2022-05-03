@@ -17,6 +17,7 @@ Todos los ejercicios y tareas del curso alojadas en este repo
 * [x] Trabajo Solidity
 * [x] Algoritmos
 * [x] Introducción python
+* [x] Ejercicios Algoritmos en python 
 
 ## Enlace a tareas realizadas
 
@@ -26,7 +27,7 @@ Todos los ejercicios y tareas del curso alojadas en este repo
 
 [Trabajo Algoritmos](/tasks/fundamentos/algoritmos.md)
 
-[Programas en python](/tasks/python/projects/)
+[Programas en python](/tasks/python/projects/Ejercicios_Algoritmos)
 
 ## Evento Microsoft
 

@@ -1,7 +1,8 @@
 #Calcular si un número es primo
 #Partiendo de la premisa de que un número primo es todo aquel número que solo es divisible por el mismo y por la unidad
 #Dado un número introducido por teclado el programa debe decir si es o no primo
-#Según la fuente el número 1 se puede o no tomar como número primo. En nuestro caso lo tomaremos como número primo
+#Según la fuente el número 1 se puede o no tomar como número primo, debido a que solo tiene un divisor posible y es él mismo.
+# En nuestro caso lo tomaremos como número primo
 
 print("Introduzca un número")
 

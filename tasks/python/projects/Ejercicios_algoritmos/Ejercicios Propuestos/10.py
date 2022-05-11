@@ -1,7 +1,7 @@
 # Adivinar la palabra
 # El siguiente programa va a tratar de descubrir la palabra que le hemos introducido
 # Vamos a realizar fuerza bruta a cada carácter de la palabra hasta conseguir descifrarla
-from time import sleep
+
 
 
 palabra="palabra muy secreta"
